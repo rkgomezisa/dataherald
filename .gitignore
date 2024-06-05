@@ -9,6 +9,8 @@ dbdata/
 
 **/node_modules
 
+**/private_credentials
+
 # Environments
 .env
 .env.test
